@@ -50,7 +50,7 @@ apt update -y
 apt upgrade -y
 pkg install python git -y
 git clone https://github.com/factvoidbyom-lgtm/LinkX-PHISHER.git
-cd Link-X
+cd LINK-XPHISH
 python setup.py
 python link-x.py
 ```
